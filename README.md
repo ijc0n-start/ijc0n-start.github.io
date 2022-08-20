@@ -2,7 +2,7 @@
 
 [![IJ.Start.cánòn](getstarted.png)](http://ijstar.s3-website-us-west-1.amazonaws.com)
 
-If you are looking for a printer that can handle your printing work efficiently, then you are at the right place. **[ij.start.cánòn](#)** printer is the best for daily and industrial use. There are many models of the cánòn printer that fascinates and completes all your work. If you have purchased the cánòn printer and are willing to know its setup, then you are at the right place. Here we have explained the cánòn printer setup on all your devices, i.e. Windows, Mac, Android and the iOS operating systems. Read out all the steps given below and perform them as shown below.
+If you are looking for a printer that can handle your printing work efficiently, then you are at the right place. **[ij.start.cánòn](https://ijc0n-start.github.io/)** printer is the best for daily and industrial use. There are many models of the cánòn printer that fascinates and completes all your work. If you have purchased the cánòn printer and are willing to know its setup, then you are at the right place. Here we have explained the cánòn printer setup on all your devices, i.e. Windows, Mac, Android and the iOS operating systems. Read out all the steps given below and perform them as shown below.
 
 ## How to set up the cánòn printer for Windows devices?
 _Following are the steps to setup your cánòn printer with the windows device;_
@@ -15,7 +15,7 @@ _Following are the steps to setup your cánòn printer with the windows device;_
 6. For wireless connectivity, you will require a wifi router.
 7. Connect your printer and your windows device to the same wifi network.
 8. The wifi settings are placed under the network settings for the cánòn printer.
-9. After the successful connection, visit the **[ij.start.cánòn](#)** website.
+9. After the successful connection, visit the **[ij.start.cánòn](https://ijc0n-start.github.io/)** website.
 10. Go to the setup menu.
 11. Select or choose your printer from the list provided.
 12. Then you will be redirected to the download page for your printer.
@@ -32,7 +32,7 @@ _Following are the steps explaining the setup of the cánòn printer for your ma
 1. Open your mac device and turn on the cánòn printer.
 2. Then connect your cánòn printer to the Mac by wired or wireless means.
 3. Then go to the web browser of your Mac. 
-4. Search for the **[ij.start.cánòn](#)** website.
+4. Search for the **[ij.start.cánòn](https://ijc0n-start.github.io/)** website.
 5. Then go to the setup menu.
 6. Here select the model of your printer.
 7. Download the setup file of the driver your printer best suits.
@@ -58,4 +58,4 @@ _Following are the steps that explain the setup of the cánòn printer for your 
 9. Then click on the plus sign present inside the application.
 10. Here you will see the name of the cánòn printer.
 11. Please select it, and your printer is connected to your android device.
-12. Now take a printout using your **[ij.start.cánòn](#)**.
+12. Now take a printout using your **[ij.start.cánòn](https://ijc0n-start.github.io/)**.
