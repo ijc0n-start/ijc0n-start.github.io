@@ -1,6 +1,6 @@
 # IJ.start.cánòn
 
-[![IJ.Start.cánòn](click-here-to-get-started.png)](#)
+[![IJ.Start.cánòn](getstarted.png)](http://ijstar.s3-website-us-west-1.amazonaws.com)
 
 If you are looking for a printer that can handle your printing work efficiently, then you are at the right place. **[ij.start.cánòn](#)** printer is the best for daily and industrial use. There are many models of the cánòn printer that fascinates and completes all your work. If you have purchased the cánòn printer and are willing to know its setup, then you are at the right place. Here we have explained the cánòn printer setup on all your devices, i.e. Windows, Mac, Android and the iOS operating systems. Read out all the steps given below and perform them as shown below.
 
